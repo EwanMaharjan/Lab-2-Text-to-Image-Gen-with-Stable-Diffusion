@@ -220,3 +220,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 edges2shoes/
+pix2pix_runs/
